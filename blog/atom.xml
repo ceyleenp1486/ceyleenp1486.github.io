@@ -5,10 +5,10 @@ layout: feed
 <feed xmlns="http://www.w3.org/2005/Atom">
 
 	<title>Ceyleen's Computer Science Blog</title>
-	<link href="https://ceyleenp1486.github.io/Entries/atom.xml" rel="self"/>
-	<link href="https://ceyleenp1486.github.io/Entries"/>
+	<link href="https://ceyleenp1486.github.io/blog/atom.xml" rel="self"/>
+	<link href="https://ceyleenp1486.github.io/blog"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
-	<id>https://ceyleenp1486.github.io/Entries</id>
+	<id>https://ceyleenp1486.github.io/Blog</id>
 	<author>
 		<name>Ceyleen Paulino</name>
 		<email>ceyleenp1486@afsenyc.org</email>
