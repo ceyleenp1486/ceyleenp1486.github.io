@@ -8,7 +8,7 @@ layout: feed
 	<link href="https://ceyleenp1486.github.io/blog/atom.xml" rel="self"/>
 	<link href="https://ceyleenp1486.github.io/blog"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
-	<id>https://ceyleenp1486.github.io/Blog</id>
+	<id>https://ceyleenp1486.github.io/blog</id>
 	<author>
 		<name>Ceyleen Paulino</name>
 		<email>ceyleenp1486@afsenyc.org</email>
