@@ -14,14 +14,16 @@ layout: feed
 		<email>ceyleenp1486@afsenyc.org</email>
 	</author>
 
-	{% for post in site.posts %}
 		<entry>
-			<title>{{ post.title }}</title>
-			<link href="http://ceyleenp1486.github.io{{ post.url }}"/>
+			<title>Progress</title>
+			<link href="http://ceyleenp1486.github.io/blog/2018/09/23/Progress"/>
 			<updated>{{ post.date | date_to_xmlschema }}</updated>
 			<id>http://ceyleenp1486.github.io{{ post.id }}</id>
-			<content type="html">{{ post.content | xml_escape }}</content>
-		</entry>
-	{% endfor %}
+			<content type="html"> 
+				<p>
+				Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.</p>
 
+			
+			</content>
+		</entry>
 </feed>
