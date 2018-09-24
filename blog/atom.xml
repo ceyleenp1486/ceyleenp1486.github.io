@@ -4,7 +4,7 @@ layout: feed
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-	<title>Ceyleen's Computer Science Blog</title>
+	<title>Ceyleen’s Computer Science Blog</title>
 	<link href="http://ceyleenp1486.github.io/blog/atom.xml" rel="self"/>
 	<link href="http://ceyleenp1486.github.io/blog"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
@@ -14,16 +14,14 @@ layout: feed
 		<email>ceyleenp1486@afsenyc.org</email>
 	</author>
 
+	{% for post in site.posts %}
 		<entry>
-			<title>Progress</title>
-			<link href="http://ceyleenp1486.github.io/blog/2018/09/23/Progress"/>
+			<title>{{ post.title }}</title>
+			<link href="http://ceyleenp1486.github.io{{ post.url }}"/>
 			<updated>{{ post.date | date_to_xmlschema }}</updated>
 			<id>http://ceyleenp1486.github.io{{ post.id }}</id>
-			<content type="html"> 
-				<p>
-				Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.</p>
-
-			
-			</content>
+			<content type="html">{{ post.content | xml_escape }}</content>
 		</entry>
+	{% endfor %}
+
 </feed>
