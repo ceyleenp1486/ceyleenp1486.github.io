@@ -24,5 +24,5 @@ For those who don't understand what this is for, these were the "simple parts" i
 
 I'd be lying if I said that this week wasn't challenging. For me, I believed it was. I started off the week on a shaky start and felt rather lost when we were given time on the computers to work on our program. My pacing with the work I did was rather slow and I remember being often distracted by the simplest of things. I remember feeling rather distressed at my slow pacing and how far behind I was getting. I know we weren't expected to complete our flags this week. The purpose of this activity was to not focus on creating flags but seeing how this activity connects to data. However, you'd be a fool if you believed I will not continue to work on my flag.
 
-I will do my best to overcome these obstacles such as my pacing and confusion. Obtain the courage to ask questions no matter how dumb they may seem and have the courage to fail. Hopefully next week will be much more distasteful. ಥ⌣ಥ o(╥﹏╥)o
+I will do my best to overcome these obstacles such as my pacing and confusion. Obtain the courage to ask questions no matter how dumb they may seem and have the courage to fail. Hopefully next week wont be so distasteful. ಥ⌣ಥ o(╥﹏╥)o
 
