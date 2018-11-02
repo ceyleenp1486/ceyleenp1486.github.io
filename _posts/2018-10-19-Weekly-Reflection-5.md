@@ -12,12 +12,13 @@ Just like that, I'm in my fifth week of learning about programming within my cla
 Clearly all you see is a red flag with no design whatsoever. Originally, this flag was going to look something like the flag of Liberia. 
 
 Here's part of my coding I've completed but have not placed together yet : 
-
+```
 #Simple parts 
 RR= rectangle(450,250, "solid", "red")
 SB= star(10, "solid", "black")
 RP= rectangle(300,20, "solid", "pink")
 SO= square(40,"solid","orange")
+```
 
 For those who don't understand what this is for, these were the "simple parts" i had to put together in order to make my flag. Of course, they're all in the wrong color. As my original plan was the recolor them once I got the shape design of flag completed. 
 
