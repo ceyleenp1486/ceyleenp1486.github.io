@@ -1,9 +1,9 @@
-
 ---
 layout: post
 title: "Weekly Reflection 9"
 date: 2018-12-07
 ---
+
 ![Alt Text](https://charlyshades.files.wordpress.com/2013/05/fuko-chan.gif)
 
 
