@@ -15,7 +15,11 @@ date: 2018-12-14
 *inform reader that ur not done
 
 *sign off
+
+
 ![Alt Text](https://media1.tenor.com/images/84f7276fe88b320e9ff8652d44652550/tenor.gif) 
+
+
 *not done
 
 
