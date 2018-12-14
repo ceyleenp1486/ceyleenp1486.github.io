@@ -5,14 +5,31 @@ date: 2018-12-14
 ---
 
 *Ur greetings
+
+
 *Talk about what you did this week - not too detailed 
+
+
 *talk about the process of making ur flag
+
+
 *show original code
+
+
 *show flag
+
+
 *tell them what you learned in class + how you applied the new knowledge into coding
+
+
 *make sure to include that you received help
+
+
 *Show them new code!
+
+
 *inform reader that ur not done
+
 
 *sign off
 
