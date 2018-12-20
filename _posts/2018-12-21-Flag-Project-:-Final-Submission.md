@@ -18,7 +18,7 @@ date: 2018-12-21
 -   Insert an image that your program currently produces. _then delete this instruction_
 
 * * *
-![GitHub Logo](/images/image.png)
+![GitHub Logo](/images/sweden.png)
 * * *
 
 ## Describe your process.
