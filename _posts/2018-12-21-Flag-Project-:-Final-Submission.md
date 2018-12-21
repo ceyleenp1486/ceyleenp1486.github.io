@@ -23,6 +23,15 @@ As I informed above, I designed the flag of Sweden using code. Based on the work
 
 -   What questions, strategies, help from peers or teacher, or thinking got you to this point? _then delete this instruction_
 
+Going back all the way to the beginning I stumbled upon my first challenge. I had a fairly easy time creating/programing the shapes needed for flag but there was one problem I had. Putting the shapes together and in the right placement. So I asked a few of my peers and I finally figured out one of the key factors for making this flag. A function called place-image that takes in an image, x-coordinate, you coordinate and another image. And just like that it I managed to put the shapes together with ease. Afterall, my flag only did involve just a large rectangle and two thin ones. However to my surprise I wasn't quite done just yet... Yes I did make my flag but that wasn't exactly what my professor wanted us learn from this "lesson". 
+
+
+My professor wasn't fond of us numbers in our program. Simply because let's say you wanted to change your entire flag, you'd have to do it all individually. And that's not what he wanted us to take from this lesson since we'd be basically repeated what some of us did the last time we coded flags. He wanted us to code these functions to represent certain values that also have names in them. The only one function that should only hold a number value is size. Now thinking about it, size is sort of like a nucleus of a cell(based on its purpose in my coding). It controls everything else basically. The purpose of coding all these other functions is because my professor wanted to make the flag much more easier to change. Which presents this idea of abstraction. Abstraction is data thats simplified which basically represents the whole entire concept. One change to it and it'll change the entire outcome(s) of your coding. 
+
+Hence I stumbled onto another major challenge when attempting to do what was requested. My challenge was using place-image without using numbers. At the time I was absoluetly confused, afterall how could values be words?? That's silly! So I requested assistance from the computer science professor. While although I made these other "short cuts" for other functions I had to continue repeating this process for the rest in order for my size function to be the abstraction of my entire code. So he properly introduced me to short cuts. 
+
+
+
 <!--- Delete this comment and add your writing -->
 
 
