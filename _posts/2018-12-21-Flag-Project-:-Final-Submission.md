@@ -6,18 +6,18 @@ date: 2018-12-21
 
 ## Flag of Sweden by Ceyleen Paulino
 
+
+
 ## Describe your program
+As I informed above, I designed the flag of Sweden using code. Based on the work I did I feel like in the end I'll receive a practitioner. Simply because I chose a fairly simple flag. While although I believe I completed decent work and tried my best I don't think I'm quite at professional level. There are still a few things I need to work on which will be later revealed further in my final submission.    
 
--   What country did you design for? _then delete this instruction_
--   What grade do you expect? _then delete this instruction_
-
-<!--- Delete this comment and add your writing -->
 
 ## Current output
 
 * * *
 ![GitHub Logo](/images/sweden.png)
 * * *
+
 
 ## Describe your process.
 
